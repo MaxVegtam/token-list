@@ -93204,6 +93204,20 @@
         "facebook": "https://www.facebook.com/MetaPixelUniverse/",
         "website": "https://metapixel.money/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FTLXmxXJBNaDcuRSqbCP5PVAwvy98keY6un5zFugVh8a",
+      "symbol": "DEVO",
+      "name": "DevelOne Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/MaxVegtam/develcoin/main/a.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://www.develone.com"
+      }
     }
   ],
   "version": {
